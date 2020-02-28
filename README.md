@@ -1,3 +1,3 @@
 # GEVO2teach
 
-These are the R codes used for the paper 
+These are the R codes and data used for the paper 
